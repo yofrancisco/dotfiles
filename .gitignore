@@ -1,0 +1,9 @@
+*
+!.gitconfig
+!.gitignore_global
+!/.config/
+!/.config/**/*
+!/.install-scripts/
+!/.install-scripts/**/*
+!/.install-notes/
+!/.install-notes/**/*

@@ -1,0 +1,15 @@
+# General
+
+brew install fish
+
+# Web dev
+
+brew install docker
+brew install colima
+brew install drud/ddev/ddev
+
+# App dev (https://reactnative.dev/docs/environment-setup)
+
+brew install node
+brew install watchman
+brew install rbenv

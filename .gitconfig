@@ -1,0 +1,7 @@
+[user]
+	email = yofranciscomartinez@gmail.com
+	name = francismartinez
+[core]
+	excludesfile = ~/.gitignore_global
+[pull]
+	rebase = true

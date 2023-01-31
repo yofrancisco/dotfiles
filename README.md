@@ -1,13 +1,12 @@
 # ¯\\_(ツ)_/¯ what i'm doing
 
 ## Install
-git clone https://github.com/francismartinez/dotfiles.git && cd dotfiles && ./install
 
+Clone this in your root directory
 
-## Atom
-### Packages
-Export packages into text file:
-`apm list --installed --bare > package.txt`
+Run w/e you want in `.install-scripts`
 
-Install packages
-`apm install --packages-file package.txt`
+# Keyboard
+
+![Ducky MacBook modifier keys](.install-notes/img/keyboard-modifier-ducky.jpg?raw=true "Ducky MacBook modifier keys")
+![MacBook modifier keys](.install-notes/img/keyboard-modifier-macbook-pro.jpg?raw=true "MacBook modifier keys")
