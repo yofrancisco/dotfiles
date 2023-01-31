@@ -1,6 +1,7 @@
 # General
 
 brew install fish
+brew install fnm
 
 # Web dev
 
