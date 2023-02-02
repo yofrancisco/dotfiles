@@ -1,8 +1,8 @@
 *
 !.gitconfig
 !.gitignore_global
-!/.config/
-!/.config/**/*
+!/.config/fish/
+!/.config/fish/**/*
 !/.install-scripts/
 !/.install-scripts/**/*
 !/.install-notes/
