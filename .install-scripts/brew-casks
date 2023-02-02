@@ -1,8 +1,33 @@
+# general
+
 brew install --cask google-chrome
 brew install --cask 1password
 brew install --cask slack
 brew install --cask notion
+brew install --cask google-drive
+
+# dev
+
+brew install --cask visual-studio-code
+brew install --cask android-studio
+
+# design
+
 brew install --cask adobe-creative-cloud
 brew install --cask figma 
-brew install --cask visual-studio-code
-brew install --cask google-drive
+brew install --cask fontforge
+
+# android dev
+
+brew tap homebrew/cask-versions
+brew install --cask zulu11
+
+# media
+
+brew install --cask spotify
+brew install --cask discord
+brew install --cask steam
+
+# install on app store
+# Harvest
+# XCode

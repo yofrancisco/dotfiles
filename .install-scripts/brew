@@ -1,7 +1,6 @@
 # General
 
 brew install fish
-brew install fnm
 
 # Web dev
 
@@ -14,3 +13,8 @@ brew install drud/ddev/ddev
 brew install node
 brew install watchman
 brew install rbenv
+
+# for older repos
+
+brew install fnm
+brew install yarn
