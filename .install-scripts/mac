@@ -1,0 +1,3 @@
+# allow install app from anywhere
+
+sudo spctl --master-disable
