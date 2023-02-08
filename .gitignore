@@ -7,3 +7,5 @@
 !/.install-scripts/**/*
 !/.install-notes/
 !/.install-notes/**/*
+!/.app-settings/
+!/.app-settings/**/*
