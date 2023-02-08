@@ -18,3 +18,9 @@ brew install rbenv
 
 brew install fnm
 brew install yarn
+
+# shopify
+rbenv install 3.0.0
+# or brew install ruby@3.0
+brew tap shopify/shopify
+brew install shopify-cli@2
