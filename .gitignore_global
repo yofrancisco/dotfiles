@@ -43,3 +43,7 @@ desktop.ini
 *.so
 *.pyc
 *.pyo
+
+# Where i put temporary testing files i don't want to commit #
+###################
+.git/exclude
